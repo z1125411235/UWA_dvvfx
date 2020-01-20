@@ -1,0 +1,8 @@
+版本:Unity 2019.3.0f5 (64-bit)
+
+UWA網址__https://lab.uwa4d.com/lab/5c8034a072745c25a8bb006a?fbclid=IwAR3yNfbY2eEShhDX2CqOpROUnQWGLxQEAfvhG2prygqEcvc-GG2Pby5Azs0
+
+官方Github網址__https://github.com/keijiro/Dkvfx
+
+本人Github網址__https://github.com/z1125411235/dvvfx
+
